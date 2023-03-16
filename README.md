@@ -1,4 +1,4 @@
-# ML_Project Storage
+# Data 분석
 
 * Covid 대응 분석 :
   - 다른 나라 대비 우리나라의 Covid 대응 분석
